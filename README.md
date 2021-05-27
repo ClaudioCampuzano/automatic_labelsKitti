@@ -29,6 +29,7 @@ make
 sudo make install
 sudo ldconfig
 ```
+# Ejecucion
 
 
 -d = directorio con imagenes de un clase en particular
